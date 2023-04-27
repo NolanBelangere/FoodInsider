@@ -163,6 +163,7 @@ footer{
 #maintwo h1{
     text-align: center;
     font-size: 50px;
+    text-shadow: 4px 4px #797979;
 }
 
 #main1 {
@@ -182,6 +183,7 @@ footer{
 #main1 h1{
     text-align: center;
     font-size: 50px;
+    text-shadow: 4px 4px #797979;
 }
 
 #main1 p{
