@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://food.reversesteve.com/index.html</loc>
+        <loc>https://nolanbelangere.github.io/FoodInsider/index.html</loc>
         <changefreq>hourly</changefreq>
         <priority>1</priority>
     </url>
     <url>
-        <loc>https://food.reversesteve.com/EatingInsects.html</loc>
+        <loc>https://nolanbelangere.github.io/FoodInsider/EatingInsects.html</loc>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://food.reversesteve.com/EatingTeachnology.html</loc>
+        <loc>https://nolanbelangere.github.io/FoodInsider/EatingTeachnology.html</loc>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://food.reversesteve.com/Eating3D.html</loc>
+        <loc>https://nolanbelangere.github.io/FoodInsider/Eating3D.html</loc>
         <changefreq>hourly</changefreq>
         <priority>0.8</priority>
     </url>
